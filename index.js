@@ -1,4 +1,4 @@
-const joi = require('joi')
+const joi = require('@hapi/joi')
 
 /**
  * Helper function to validate an object against the provided schema,
